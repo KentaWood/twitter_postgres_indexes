@@ -18,5 +18,3 @@ GROUP BY tag
 ORDER BY count DESC,tag
 LIMIT 1000
 ;
-
-
